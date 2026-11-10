@@ -1,0 +1,9 @@
+{
+  "schema": "1",
+  "id": "hauntedhallows",
+  "modid": "hauntedhallows",
+  "platforms": {
+    "curseforge": "haunted-hallows"
+  },
+  "owners": [RedCarlie]
+}
